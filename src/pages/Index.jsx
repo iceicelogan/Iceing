@@ -16,7 +16,7 @@ const Index = () => {
         <div className="bg-white rounded-lg shadow-md p-6 mb-8">
           <h2 className="text-2xl font-semibold mb-4 text-blue-800">Iceing by Kasey</h2>
           <p className="text-gray-700 mb-4">
-            Kasey is the founder and lead photographer at Iceing by Kasey. With her keen eye for detail and creative vision, she captures moments that last a lifetime.
+            Kasey is the creative heart and soul behind Iceing and a leading St. Louis photographer specializing in family photography.
           </p>
           <a href="https://www.iceingbykasey.com" target="_blank" rel="noopener noreferrer" className="inline-flex items-center text-blue-600 hover:underline">
             Learn more
