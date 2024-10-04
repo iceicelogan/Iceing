@@ -15,7 +15,12 @@ const Resume = () => {
         <div className="bg-white rounded-lg shadow-md p-6 mb-8">
           <img 
             src="/resume-image-1.jpg" 
-            alt="Logan Ice Resume" 
+            alt="Logan Ice Resume - Page 1" 
+            className="w-full h-auto rounded-lg shadow-md mb-8"
+          />
+          <img 
+            src="/resume-image-2.jpg" 
+            alt="Logan Ice Resume - Page 2" 
             className="w-full h-auto rounded-lg shadow-md"
           />
         </div>
