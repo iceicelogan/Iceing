@@ -10,7 +10,7 @@ const Resume = () => {
           <ArrowLeft className="mr-2 h-4 w-4" /> Back to Home
         </Link>
 
-        <h1 className="text-4xl font-bold mb-8 text-center text-blue-800">My Resume</h1>
+        <h1 className="text-4xl font-bold mb-8 text-center text-blue-800">Logan's Resume</h1>
 
         <div className="bg-white rounded-lg shadow-md p-6 mb-8">
           <iframe
@@ -21,7 +21,7 @@ const Resume = () => {
         </div>
 
         <div className="text-center text-gray-600">
-          <p>&copy; 2024 Ice Marketing. All rights reserved.</p>
+          <p>&copy; 2024 Iceing, LLC. All rights reserved.</p>
         </div>
       </div>
     </div>
